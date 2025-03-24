@@ -1,0 +1,22 @@
+### Buscar por universo
+GET http://localhost:3001/personajes/buscar?universo=Tierra-616
+
+### Buscar por especie y planeta
+GET http://localhost:3001/personajes/buscar?especie=Mutante&planeta=Namek
+
+### Buscar por nivel de poder
+GET http://localhost:3001/personajes/buscar?nivelPoderMin=50&nivelPoderMax=80
+
+### 📊 Estadísticas globales
+GET http://localhost:3001/estadisticas
+
+
+### ⚔️ Simular batalla entre dos personajes
+POST http://localhost:3001/batalla
+Content-Type: application/json
+
+{
+  "id1": "8743",
+  "id2": "4718"
+}
+

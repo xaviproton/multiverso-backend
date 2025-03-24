@@ -1,0 +1,16 @@
+# node_modules (carpetas de dependencias)
+node_modules/
+
+# Archivos de entorno (si usas .env más adelante)
+.env
+
+# Archivos de logs y errores
+npm-debug.log
+yarn-error.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de VS Code
+.vscode/

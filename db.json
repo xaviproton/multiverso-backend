@@ -1,0 +1,66 @@
+{
+  "personajes": [
+    {
+      "id": "e4b38dca-bae5-4d08-8e23-21650f82fd65",
+      "nombre": "Adrian",
+      "universo": "Multiverso-X",
+      "nivelPoder": 39,
+      "habilidades": [
+        "Rayos láser",
+        "Invisibilidad"
+      ],
+      "aliados": [
+        "Fredrick",
+        "Stewart"
+      ],
+      "enemigos": [
+        "Johns"
+      ],
+      "fraseEpica": "Quas curso delicate.",
+      "imagen": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/83.jpg"
+    },
+    {
+      "id": "8743",
+      "nombre": "Giovanna",
+      "universo": "Tierra-616",
+      "especie": "Humano",
+      "planetaOrigen": "Marte Negro",
+      "nivelPoder": 65,
+      "habilidades": [
+        "Dominar sombras",
+        "Invisibilidad",
+        "Teletransportación"
+      ],
+      "aliados": [
+        "Richie",
+        "Alvera"
+      ],
+      "enemigos": [
+        "Willms"
+      ],
+      "fraseEpica": "Voluptates approbo cerno cunae conculco vulgus contigo tenuis candidus.",
+      "imagen": "https://avatars.githubusercontent.com/u/44675941"
+    },
+    {
+      "id": "4718",
+      "nombre": "Jack",
+      "universo": "Tierra-616",
+      "especie": "Androide",
+      "planetaOrigen": "Asgard",
+      "nivelPoder": 72,
+      "habilidades": [
+        "Regeneración",
+        "Velocidad sobrehumana"
+      ],
+      "aliados": [
+        "Fredy",
+        "Devon"
+      ],
+      "enemigos": [
+        "Senger"
+      ],
+      "fraseEpica": "Via incidunt occaecati at capto cursus adamo acerbitas.",
+      "imagen": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/35.jpg"
+    }
+  ]
+}
