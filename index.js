@@ -96,6 +96,11 @@ function generarPersonaje() {
 
 //ENDPOINTS
 
+app.get('/', (req, res) => {
+  res.send('¡API del Multiverso funcionando! 🌌');
+});
+
+
 // Obtener todos los personajes
 app.get('/personajes', (req, res) => {
   res.json(db.personajes || []);
